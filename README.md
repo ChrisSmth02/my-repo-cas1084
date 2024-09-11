@@ -10,5 +10,5 @@
 
 Screenshot:
 
-![screenshot] https://github.com/ChrisSmth02/my-repo-cas1084/blob/main/test%20image%202.jpg?raw=true
+![screenshot](https://github.com/ChrisSmth02/my-repo-cas1084/blob/main/test%20image%202.jpg?raw=true)
 
